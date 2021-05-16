@@ -1,0 +1,2 @@
+# I-can-t-open-JASP-it-always-shows-repair-change-uninstall-instead-of-the-app
+JASP version: 0.14.1 OS name and version: Windows 64 Bit Analysis: Bug description: Each time I try to open JASP up from my computer, it takes me to the setup wizard and gives me the option to repair/change/uninstall. How do I rectify this situation so that I am actually able to open the program. Expected behaviour: I would like it to just open, I know how to go from there Steps to reproduce: Go to '...' Click on '....' Scroll down to '....' See error
